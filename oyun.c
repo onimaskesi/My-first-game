@@ -46,6 +46,7 @@ int main(){
 		
 		//printf("ne demek kakakakakakaakkaka");
 		//getch();
+		free(A);
 		
 	goto tekrarla;
 		
